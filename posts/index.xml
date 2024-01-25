@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Philanatidae</title>
+    <link>https://www.philanatidae.com/posts/</link>
+    <description>Recent content in Posts on Philanatidae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>contact@philanatidae.com (Philanatidae)</managingEditor>
+    <webMaster>contact@philanatidae.com (Philanatidae)</webMaster>
+    <lastBuildDate>Wed, 04 Aug 2021 12:48:16 -0600</lastBuildDate>
+    <atom:link href="https://www.philanatidae.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro</title>
+      <link>https://www.philanatidae.com/posts/intro/</link>
+      <pubDate>Wed, 04 Aug 2021 12:48:16 -0600</pubDate><author>contact@philanatidae.com (Philanatidae)</author>
+      <guid>https://www.philanatidae.com/posts/intro/</guid>
+      <description>Hello! I&amp;rsquo;m Philanatidae, Phil for short. Welcome to my website! I&amp;rsquo;m a full-time electrical engineer who is a hobbiest computer programmer.
+I became interested in programming when I was about 10 years old. The Washington State University (WSU) 4-H program hosted an annual event called &amp;lsquo;Super Saturday&amp;rsquo;, a collection of workshops. One of the workshops I attended was for Scratch, a visual programming language aimed towards children. I immediately got hooked, and spent almost all my time on the computer using Scratch.</description>
+    </item>
+  </channel>
+</rss>
